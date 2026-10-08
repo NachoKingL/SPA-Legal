@@ -1,7 +1,9 @@
 # Potestades del empleador, jornada, control y privacidad
 
 Fuentes: MD81, cap. 2 (potestades) y cap. 3 (ciudadanía en la empresa); MD4, cap. 2 (potestades,
-medios tecnológicos y doctrina de la DT); cotejo de vigencia (Ley 21.561, Ley 21.645, Ley 21.719).
+medios tecnológicos y doctrina de la DT). Los arts. 5, 12, 22, 22 bis, 27, 32, 66 a 76 bis, 152
+quáter G a O ter, 153 a 157 y 184 se cotejaron con el texto oficial del Código (LeyChile, versión
+23-07-2026), y la Ley 21.561 con su texto publicado.
 
 ## Naturaleza y límites de las potestades
 
@@ -54,10 +56,11 @@ por igualdad de remuneraciones (N°13, respuesta en 30 días). Las medidas de co
 efectuarse por medios idóneos y concordantes con la naturaleza de la relación, generales,
 impersonales y respetuosas de la dignidad (art. 154 inc. final).
 
-Debe ponerse en conocimiento de los trabajadores 30 días antes de su vigencia, exhibirse en dos
-lugares visibles y entregarse a sindicatos, delegado del personal y comité paritario; se envía copia
-al Ministerio de Salud y a la DT dentro de cinco días, que pueden exigir modificaciones; los
-trabajadores y sindicatos pueden impugnarlo (arts. 153 y 156). Es un acto unilateral: no integra el
+Debe ponerse en conocimiento de los trabajadores 30 días antes de su vigencia y exhibirse en dos
+sitios visibles. Debe entregarse copia a los sindicatos y a los comités paritarios, y un ejemplar
+impreso gratuito a cada trabajador (art. 156). Se envía copia al Ministerio de Salud y a la DT
+dentro de cinco días desde su vigencia, y estas autoridades pueden exigir modificaciones de oficio.
+Cualquier trabajador o sindicato puede impugnarlo ante ellas (art. 153). Es un acto unilateral: no integra el
 contrato, no es retroactivo y no puede crear causales de despido ni empeorar condiciones pactadas.
 Los empleadores sin obligación de reglamento interno deben igualmente informar por escrito el
 protocolo de la Ley Karin al contratar e incorporarlo al reglamento de higiene y seguridad (nuevo
@@ -143,18 +146,69 @@ ciclos de hasta cuatro semanas, con un máximo de 45 horas ordinarias en una sem
 semanas seguidas sobre el promedio, calendario previo y aviso de una semana; con trabajadores
 sindicalizados se requiere acuerdo del sindicato, y por negociación colectiva el tope semanal puede
 llegar a 52 horas sólo para los afiliados. Al término del contrato se pagan las horas que excedan
-el promedio. Madres, padres y cuidadores de niños de hasta 12 años tienen una banda de dos horas para
-anticipar o retrasar hasta en una hora el inicio de la jornada (art. 27); las discrepancias las
-resuelve la Inspección. Los trabajadores excluidos de limitación de jornada (art. 22 inc. 2) son una
-fuente frecuente de cobros de horas extra cuando en realidad están sujetos a control; hay proyectos
-y dictámenes de 2026 sobre este punto que conviene revisar.
+el promedio. El texto permanente del art. 22 ya dice "cuarenta horas"; el límite de 42 horas viene
+del art. 1° transitorio de la Ley 21.561.
+
+**Banda horaria (art. 27).**
+
+- **Titulares.** Madres y padres de niños de hasta 12 años, y quienes tengan su cuidado personal.
+  Tienen una banda de dos horas para anticipar o retrasar hasta en una hora el inicio de la jornada,
+  y con ello la salida.
+- **Acreditación.** Basta el certificado de nacimiento o la sentencia de cuidado personal.
+- **Negativa del empleador.** Sólo puede negarse si la empresa funciona en un horario que no lo
+  permite, o por la naturaleza de las funciones que exigen estar en el puesto a una hora precisa
+  (atención de público, labores necesarias para otros trabajadores, urgencias, turnos, guardias).
+- **Ambos padres trabajan.** Usa el derecho cualquiera de ellos, a elección de la madre.
+- **Controversias.** Las resuelve el inspector.
+
+**Excluidos de limitación de jornada (art. 22 inc. 2).** Comprende a gerentes, administradores,
+apoderados con facultades de administración y quienes trabajan sin fiscalización superior
+inmediata.
+
+- **Controversia sobre la exclusión.** La resuelve el inspector, y su resolución se reclama ante el
+  juez dentro de quinto día, en única instancia.
+- **Horas extra.** Es una fuente frecuente de cobros cuando el trabajador en realidad está sujeto a
+  control.
+- **Cambios en curso.** Hay proyectos y dictámenes de 2026 sobre este punto que conviene revisar.
+
+**Horas extraordinarias (art. 32).**
+
+- **Cuándo proceden.** Sólo para atender necesidades o situaciones temporales.
+- **Pacto.** Debe ser escrito, por un máximo de tres meses y renovable. Sin pacto, son horas extra
+  las trabajadas en exceso con conocimiento del empleador.
+- **Recargo.** 50% sobre el sueldo convenido, o sobre el ingreso mínimo si no hay sueldo o es
+  inferior.
+- **Compensación.** Pueden compensarse con hasta cinco días hábiles adicionales de feriado al año, a
+  razón de una hora y media por cada hora extra.
 
 ## Conciliación de la vida familiar (Ley 21.645, vigente desde el 29-01-2024)
 
-Quienes cuidan sin remuneración a menores de 14 años o a personas con discapacidad o dependencia
-severa o moderada (acreditado ante el Ministerio de Desarrollo Social) tienen derecho a que el
-empleador les ofrezca teletrabajo total o parcial cuando la naturaleza de sus funciones lo permita,
-sin alterar sus condiciones; quedan excluidos quienes tienen poder de representación. Durante las
-vacaciones escolares pueden pedir la modificación transitoria de turnos o de la distribución de la
-jornada (art. 76 bis). La negativa injustificada puede fundar una tutela por discriminación o una
+**Teletrabajo para cuidadores (arts. 152 quáter O bis y O ter).**
+
+- **Titulares.** Quienes cuidan sin remuneración a un menor de 14 años o a una persona con
+  discapacidad o dependencia severa o moderada, de cualquier edad.
+- **Derecho.** Que el empleador les **ofrezca** teletrabajo total o parcial cuando la naturaleza de
+  sus funciones lo permita.
+- **Acreditación.** Certificado de nacimiento, resolución judicial de cuidado personal, inscripción
+  en el Registro Nacional de la Discapacidad o documento del Ministerio de Desarrollo Social y
+  Familia.
+- **Exclusión.** No aplica a quienes tienen poder de representación (gerentes, subgerentes, agentes
+  o apoderados).
+- **Procedimiento.** El trabajador presenta una solicitud escrita con una propuesta concreta de
+  tiempos presenciales y a distancia. El empleador responde en **15 días**: puede ofrecer una
+  alternativa o rechazar, y si rechaza debe acreditar que las funciones no lo permiten.
+
+**Vacaciones escolares (arts. 67 inc. final y 76 bis).**
+
+- **Titulares.** Quienes tengan el cuidado personal de un menor de 14 años, o de un adolescente
+  menor de 18 con discapacidad o dependencia severa o moderada.
+- **Feriado.** Tienen preferencia para tomarlo en las vacaciones escolares. La solicitud se hace con
+  al menos 30 días de anticipación.
+- **Turnos y jornada.** Pueden pedir que se modifiquen transitoriamente los turnos o la distribución
+  de la jornada, si la naturaleza de sus funciones y el horario de la empresa lo permiten. La
+  propuesta se presenta con al menos 30 días de anticipación.
+- **Respuesta del empleador.** Responde en 10 días. Puede ofrecer una alternativa o rechazar
+  acreditando la justificación.
+- **Límites del cambio.** Consta en un anexo y no altera la duración semanal, las funciones ni la
+  remuneración. La negativa injustificada puede fundar una tutela por discriminación o una
 denuncia ante la Inspección (DT Ord. 67/1 de 2024).

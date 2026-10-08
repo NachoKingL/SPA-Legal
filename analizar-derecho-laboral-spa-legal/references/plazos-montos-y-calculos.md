@@ -1,8 +1,9 @@
 # Plazos, montos y cálculos
 
-Fuentes: MD81 (cap. 4), MD4 (cap. 3), MD19 (cap. 2 y 3) y cotejo de vigencia (octubre de 2026).
-Las reglas marcadas "regla general del Código" no se desarrollan en los manuales, pero se incluyen
-porque se usan en casi todo caso y su texto es estable.
+Fuentes: MD81 (cap. 4), MD4 (cap. 3), MD19 (cap. 2 y 3). Los plazos y montos legales se cotejaron
+con el texto oficial del Código del Trabajo en LeyChile (versión 23-07-2026). Las reglas marcadas
+"regla general del Código" no se desarrollan en los manuales, pero se incluyen porque se usan en
+casi todo caso.
 
 ## Cómo se cuentan los días
 
@@ -10,9 +11,9 @@ En los procedimientos laborales los plazos de días son de **días hábiles**: s
 festivos y **el sábado es hábil** (art. 435; la Corte Suprema aplica el mismo criterio al art. 168).
 Son plazos fatales para las partes. Excepciones relevantes: la negociación colectiva se cuenta en
 días corridos (art. 312, salvo la mediación del art. 351), y si vence en sábado, domingo o festivo
-se corre al día hábil siguiente; para el feriado legal el sábado es inhábil (art. 69); y el
-reglamento de la Ley Karin trata los sábados como inhábiles para sus plazos (DS 21/2024
-[confirmar]).
+se corre al día hábil siguiente; para el feriado legal el sábado es inhábil (art. 69). Para los
+plazos de la investigación de la Ley Karin revisa el DS 21/2024 y los dictámenes de la DT antes de
+afirmar cómo se cuentan, porque el Código no lo dice.
 
 **Caducidad y prescripción no son lo mismo.** Los 60 días de los arts. 168, 171, 486, 489 y 294 son
 de caducidad: el juez la declara de oficio al revisar la demanda (art. 447) o al resolver la
@@ -29,22 +30,26 @@ prescripción del art. 510 debe alegarse (art. 2493 CC) y se interrumpe conforme
 | Tutela con relación vigente (art. 486) | 60 días hábiles | La vulneración; si es continuada, el último acto | Suspensión del 168 |
 | Tutela con ocasión del despido (art. 489) | 60 días hábiles | Separación (también en autodespido, CS 2026) | Suspensión del 168; tope 90 días hábiles |
 | Despido antisindical de trabajador no aforado (art. 294) | 60 días hábiles | Separación | Suspensión del 168 |
-| Vicios del consentimiento en renuncia, mutuo acuerdo o finiquito | Plazo del art. 168 (MD81) | Separación | Suspendible |
+| Vicios del consentimiento en renuncia, mutuo acuerdo o finiquito (art. 177 inc. final) | 60 días hábiles (plazo del art. 168 inc. 1) | Separación | Suspendible como en el 168 |
+| Reincorporación de trabajadora con fuero despedida por ignorancia del embarazo (art. 201) | 60 días hábiles para hacer efectivo el derecho, con la sola presentación del certificado | Despido | — |
 | Nulidad del despido (art. 162) | Prescribe en 6 meses (art. 510) | Suspensión de los servicios | Normalmente se demanda junto con el despido injustificado, y entonces manda el plazo de 60 días de esa acción |
 | Prestaciones y derechos del Código (art. 510) | 2 años | Desde que se hicieron exigibles | Reclamo administrativo notificado con la misma pretensión suspende; tope un año desde el término |
 | Acciones de actos y contratos, terminada la relación (art. 510) | 6 meses | Término de los servicios | Hay discusión sobre si el cobro de remuneraciones legales sigue en 2 años (Corte de Temuco, mayo de 2026) |
 | Horas extraordinarias (art. 510) | 6 meses | Fecha en que debieron pagarse | — |
 | Reclamo por ius variandi (art. 12) | 30 días hábiles ante el inspector; 5 días para reclamar ante el juez | Hecho o aviso; notificación de la resolución | — |
-| Reclamo judicial de multa de la DT (art. 503) | 15 días hábiles | Notificación (por carta certificada, al sexto día hábil desde la recepción en Correos, art. 508) | — |
+| Reclamo judicial de multa de la DT (art. 503) | 15 días hábiles | Notificación: por correo electrónico, se entiende hecha al tercer día hábil desde el envío; sólo sin correo registrado, por carta certificada al sexto día hábil desde la recepción en Correos (art. 508) | Multas de hasta 10 IMM, por la vía monitoria |
 | Carta de despido (art. 162) | 3 días hábiles (159 N°4 y 5, y 160); 6 días hábiles (159 N°6); 30 días de anticipación o pago de sustitutiva (161) | Separación o fecha de término | Copia a la Inspección en el mismo plazo |
 | Finiquito y pago a disposición (art. 177) | 10 días hábiles | Separación | Si se rechaza el electrónico, presencial en el mismo plazo o 3 días hábiles desde el rechazo |
 | Comunicación del liquidador (art. 163 bis) | Hasta 6 días hábiles (plazo fatal) | Notificación de la resolución de liquidación | — |
-| Demanda tras medida prejudicial (art. 444) | 10 días, prorrogables por el juez | Concesión de la medida | — |
+| Demanda tras medida prejudicial (art. 444) | 10 días | Fecha en que la medida se hizo efectiva | Si no se demanda, caduca de pleno derecho y el solicitante responde de los perjuicios. El juez puede prorrogar la medida si se acredita el inminente término de la empresa o su manifiesta insolvencia |
 | Contestación de la demanda (art. 452) | Hasta 5 días hábiles antes de la audiencia preparatoria | Fecha de celebración de la audiencia | — |
-| Reclamo contra la resolución monitoria (art. 500) | 10 días hábiles | Notificación | Sin reclamo queda firme |
+| Reclamo contra la resolución monitoria (art. 500) | 10 días hábiles | Notificación | Sin reclamo queda firme; audiencia única dentro de 15 días desde el reclamo |
+| Objeción de la liquidación del crédito (art. 469) | 5 días | Notificación de la liquidación | Sólo por errores de cálculo, alteración de bases o mala aplicación de reajustes o intereses; se resuelve de plano |
+| Cobro de pacto de pago judicial incumplido (art. 468) | 60 días | Incumplimiento | Se hace exigible el total; el juez puede incrementar hasta 150% |
+| Apelación de la resolución que acoge incompetencia, caducidad o prescripción (art. 453 N°1) | En la misma audiencia preparatoria | — | Se concede en ambos efectos y se ve en cuenta |
 | Recurso de nulidad (art. 479) | 10 días | Notificación de la sentencia | Suspende los efectos (art. 480) |
-| Reposición / apelación / unificación (regla general del Código) | 3 días / 5 días / 15 días desde la sentencia de nulidad | Notificación | La unificación no suspende (483-A) |
-| Ley Karin | Remitir a la Inspección en 3 días hábiles; medidas de resguardo pedidas por la IT en 2 días hábiles; investigación 30 días; pronunciamiento IT 30 días; medidas o sanciones en 15 días | Denuncia o recepción de la derivación | No se suspende por feriado ni licencia |
+| Reposición (art. 475) / apelación (arts. 476 y 474, supletorio CPC) / unificación (art. 483-A) | Reposición: verbal e inmediata en audiencia, o 3 días fuera de ella; apelación: 5 días; unificación: 15 días | Notificación; la unificación, desde la sentencia que falla la nulidad | La unificación no suspende salvo que el cumplimiento haga imposible ejecutar lo que se resuelva |
+| Ley Karin (arts. 211-B bis a 211-E) | Investigar internamente o remitir a la Inspección en 3 días; la IT solicita medidas de resguardo en máximo 2 días hábiles; investigación concluida en 30 días; pronunciamiento de la IT en 30 días (si calla, valen las conclusiones); medidas o sanciones en 15 días desde la recepción del informe | Denuncia; recepción del informe | Revisa el DS 21/2024 y los dictámenes DT sobre suspensión por feriados y licencias |
 
 **Cómo opera la suspensión del art. 168.** La jurisprudencia no es uniforme. La lectura estricta (CS,
 agosto y octubre de 2025) cuenta los 60 días hábiles descontando sólo el tiempo efectivo que duró el
@@ -85,24 +90,38 @@ improcedentemente el art. 161; 50% si se aplicó injustificadamente el art. 159 
 (despido verbal); 80% si se aplicó indebidamente el art. 160; 100% si se invocaron los N°1, 5 o 6
 del art. 160 y el despido se declara además carente de motivo plausible. Si las causales de los
 arts. 159 o 160 no se acreditan, el término se entiende por el art. 161 a la fecha del despido, con
-el recargo de la causal invocada. Excepción: el empleador que investigó el acoso conforme al Título
-IV del Libro II no paga recargo aunque el despido del denunciado se declare injustificado.
+el recargo de la causal invocada ("en la fecha en que se invocó la causal"). Excepciones por acoso,
+cuando se despide al denunciado y el despido se declara injustificado:
+
+- **Acoso sexual (art. 168 inc. 3).** El empleador que cumplió el art. 153 inc. 2 y el Título IV
+  del Libro II no paga recargo alguno.
+- **Acoso sexual, laboral o violencia en el trabajo (art. 154 N°12).** El empleador que, ante la
+  denuncia del afectado, cumplió íntegramente el procedimiento del Título IV no paga el recargo de
+  la letra c) (80%).
 
 **Invalidez (art. 161 bis).** No es justa causa: indemnización por años de servicio con un 50% de
 recargo.
 
 **Autodespido (art. 171).** Sustitutiva más años de servicio, con recargo del 50% (causal 160 N°7)
 o hasta 80% (160 N°1 y N°5), más otras indemnizaciones (daño moral) cuando se invocan las letras a),
-b) o f) del N°1. Si se rechaza, se entiende que el trabajador renunció.
+b) o f) del N°1. Además, "cuando el empleador no hubiera observado el procedimiento establecido en
+el Título IV del Libro II", responde conforme a los incisos 1 y 2. Esto permite fundar el
+autodespido en la omisión de investigar, aunque el acosador sea otro trabajador o un tercero. Si la demanda se rechaza, se entiende que el
+trabajador renunció. Si el trabajador invocó falsamente las letras b) o f) y el autodespido carece
+de motivo plausible, debe indemnizar los perjuicios al empleador.
 
 **Tutela por despido (art. 489).** Sustitutiva, años de servicio con el recargo del 168 y una
-indemnización adicional de 6 a 11 remuneraciones mensuales, compatible con el daño moral (CS
-unificación Roles 23.096-2019 y 119.688-2020). En despido discriminatorio grave, el trabajador puede
-optar por la reincorporación.
+indemnización adicional de 6 a 11 veces "la última remuneración mensual", compatible con el daño
+moral (CS unificación Roles 23.096-2019 y 119.688-2020). En despido discriminatorio grave por los
+motivos del art. 2 inc. 4, el trabajador puede optar por la reincorporación. Para funcionarios
+públicos (art. 1 inc. 2) no hay sustitutiva ni años de servicio: sólo las 6 a 11 remuneraciones o,
+si es discriminatorio grave, la opción de reincorporarse al cargo.
 
 **Contrato por obra o faena (art. 163 inc. 3).** Si duró al menos un mes y termina por el art. 159
 N°5: 2,5 días de remuneración (base art. 172) por cada mes y fracción superior a 15 días, para
-contratos celebrados desde 2022. Pagada y aceptada en el finiquito, impide demandar despido
+contratos celebrados desde enero de 2022. Los celebrados antes tienen tramos menores (1; 1,5 y 2
+días) según el art. 23 transitorio del Código. Es compatible con la sustitutiva del aviso que
+corresponda y se le aplica el descuento del seguro de cesantía (art. 13 inc. 2 Ley 19.728). Pagada y aceptada en el finiquito, impide demandar despido
 injustificado, pero no la tutela.
 
 **Contrato a plazo despedido antes del término.** No genera indemnización por años de servicio si no
@@ -129,10 +148,15 @@ las remuneraciones con tope de 4,75 ingresos mínimos al año.
 
 ## Valores de referencia al 08-10-2026
 
-Ingreso mínimo mensual: $553.553 (desde el 01-05-2026; Ley 21.830). Diez ingresos mínimos:
-**$5.535.530**, umbral del procedimiento monitorio (sin contar los aumentos por nulidad del despido)
-y de los reclamos de multas. La UF y la UTM varían diariamente y mensualmente: pide el valor del día
-o del mes respectivo antes de calcular topes de 90 UF o multas en UTM.
+| Valor | Monto | Uso |
+|---|---|---|
+| Ingreso mínimo mensual (Ley 21.830, desde el 01-05-2026) | $553.553 | Base de los umbrales |
+| **15 ingresos mínimos** | **$8.303.295** | Umbral del **procedimiento monitorio** (art. 496, Ley 21.394), sin contar los aumentos de los incisos 5 y 7 del art. 162 (nulidad del despido) |
+| 10 ingresos mínimos | $5.535.530 | Umbral para reclamar multas por la vía monitoria (art. 503) |
+| 4,75 ingresos mínimos | ≈ $2.629.377 | Tope anual de la gratificación del art. 50 |
+
+El ingreso mínimo se reajusta el 01-01-2027 por IPC. La UF y la UTM varían diaria y mensualmente:
+pide el valor del día o del mes respectivo antes de calcular topes de 90 UF o multas en UTM.
 
 ## Estimación de montos en la respuesta
 

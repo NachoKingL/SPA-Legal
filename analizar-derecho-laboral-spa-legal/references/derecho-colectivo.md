@@ -1,8 +1,9 @@
 # Derecho colectivo del trabajo
 
 Fuentes: MD66 (Condeza, Kopplin y Lanata, 2023), obra de referencia, posterior a la Ley 20.940
-(vigente desde el 01-04-2017); MD81, cap. 5; MD4 (libertad sindical y tutela); cotejo de vigencia
-(art. 249, art. 227, art. 324).
+(vigente desde el 01-04-2017); MD81, cap. 5; MD4 (libertad sindical y tutela). Los arts. 216 a 250,
+289 a 294 bis, 303 a 326, 342 a 363 y 400 a 407 se cotejaron con el texto oficial del Código
+(LeyChile, versión 23-07-2026).
 
 ## Fuentes y libertad sindical
 
@@ -31,21 +32,23 @@ protección (CA La Serena Rol 1154-2022; CA Puerto Montt Roles 3881-2022 y 27-20
 empleadores; pueden mantener la afiliación sin prestar servicios), de independientes y de eventuales
 o transitorios.
 
-**Quórum (art. 227, verificado).** En empresas de más de 50 trabajadores, 25 que representen al menos
+**Quórum (art. 227).** En empresas de más de 50 trabajadores, 25 que representen al menos
 el 10% del total; si no hay sindicato vigente, pueden constituirlo 8 trabajadores, que deben completar
 el quórum en un año o caduca la personalidad jurídica. En empresas de 50 o menos, 8 trabajadores que
 representen al menos el 50% (con número impar, se baja al par inferior). Sindicato de establecimiento:
 25 trabajadores que representen al menos el 30% del establecimiento (unidad técnica de ejecución, DT
-471/18 de 1995). Con 250 o más trabajadores, sin exigencia de porcentaje. Otros sindicatos
+471/18 de 1995). Con 250 o más trabajadores, sin exigencia de porcentaje. Del cómputo se descuentan
+los trabajadores impedidos de negociar colectivamente según el art. 305. Otros sindicatos
 (interempresa, independientes, eventuales): 25 (art. 228).
 
 **Constitución.** Asamblea ante ministro de fe (en el interempresa, sólo inspectores del trabajo),
 votación secreta, aprobación de estatutos y elección de directorio (art. 221). Depósito del acta y dos
 copias de los estatutos en la Inspección dentro de 15 días; la personalidad jurídica nace con el
 depósito (art. 222). Comunicación al empleador dentro de 3 días hábiles laborales (art. 225). La
-Inspección puede formular observaciones dentro de 90 días corridos; el sindicato tiene 60 días para
-subsanar o reclamar ante el JLT (única instancia, por las reglas del monitorio, art. 504), bajo
-apercibimiento de caducidad (art. 223).
+Inspección puede formular observaciones dentro de 90 días corridos desde el depósito; el sindicato
+tiene 60 días desde la notificación para subsanar o reclamar ante el JLT, bajo apercibimiento de
+caducidad de la personalidad jurídica. El juez resuelve en única instancia y sin forma de juicio,
+oyendo a la Inspección, que informa en 10 días hábiles (art. 223).
 
 **Estatutos y directorio.** Los estatutos regulan afiliación, derechos y deberes, requisitos de los
 dirigentes, régimen disciplinario y reforma (asamblea con ministro de fe y mayoría absoluta). Cuota de
@@ -53,7 +56,7 @@ género: al menos un tercio de directoras con fuero, o la proporción de afiliad
 inc. 3; no aplica al sindicato de empresa con menos de 25 afiliados). Censura del directorio por
 mayoría absoluta en votación secreta (art. 244).
 
-**Horas de trabajo sindical (art. 249, verificado).** Mínimo 6 horas semanales por director, u 8 si la
+**Horas de trabajo sindical (art. 249).** Mínimo 6 horas semanales por director, u 8 si la
 organización tiene 250 o más trabajadores; acumulables dentro del mes y cedibles a otros directores con
 aviso escrito; las citaciones de autoridades no se imputan. El tiempo se entiende trabajado, pero las
 remuneraciones, beneficios y cotizaciones de cargo del empleador de ese período son de **cargo del
@@ -83,21 +86,38 @@ días). Cesa de inmediato, sin los seis meses, por censura, sanción judicial, r
 término de la empresa. El fuero nace con la elección aunque la comunicación al empleador sea
 posterior al despido (CS unificación Roles 6881-2016 y 4871-2017); en el interempresa, si no se
 comunicó, es inoponible al nuevo empleador (CS Rol 7732-2019). Número de directores con fuero (art.
-235): menos de 25 afiliados, 1; 25 a 249, 3; 250 a 999, 5; 1.000 a 2.999, 7; 3.000 o más, 9; y 11 si
-tiene presencia en dos o más regiones. A los directores no se les puede aplicar ius variandi salvo
+235): menos de 25 afiliados, 1; 25 a 249, 3; 250 a 999, 5; 1.000 a 2.999, 7; 3.000 o más, 9. El
+sindicato de empresa con 3.000 o más afiliados y presencia en dos o más regiones suma dos más (11).
+Los aforados pueden ceder sus permisos a otros directores con aviso de tres días hábiles. A los directores no se les puede aplicar ius variandi salvo
 caso fortuito o fuerza mayor (art. 243 inc. 2; CA Santiago Rol 3659-2021).
 
-**Constitución.** Desde diez días antes de la asamblea hasta 30 días después (máximo 40); en el
-interempresa, desde la solicitud reservada del ministro de fe. Un despido en los diez días previos
-queda sin efecto si el sindicato se constituye. **Candidatos** (art. 238): desde la comunicación
+**Constitución (art. 221).**
+
+- **Sindicato de empresa o establecimiento.** El fuero va desde diez días antes de la asamblea
+  hasta 30 días después de ella, con un máximo de 40 días. Un despido en los diez días previos
+  queda sin efecto si el sindicato se constituye.
+- **Interempresa.** El fuero corre desde la solicitud reservada del ministro de fe (sólo inspectores
+  del trabajo) hasta 30 días después de la asamblea, que debe celebrarse dentro de 10 días desde la
+  solicitud.
+- **Eventuales o transitorios.** El fuero dura hasta el día siguiente de la asamblea, con un máximo
+  de 15 días. **Candidatos** (art. 238): desde la comunicación
 escrita al empleador de la fecha de la elección, no más de 15 días antes. Los fueros de constitución y
 de candidatos pueden usarse sólo dos veces al año. **Eventuales y transitorios:** sólo mientras dura el
 contrato. **Negociación colectiva reglada** (art. 309): los trabajadores involucrados, desde la
 presentación del proyecto.
 
-**Despido de un aforado.** Es práctica antisindical y no produce efecto: en la primera resolución el
-juez ordena la reincorporación inmediata y el pago de las remuneraciones, bajo multa de 50 a 100 UTM,
-sin recurso (art. 292). No se compensa con una "indemnización del fuero" (CA Concepción Rol 81-2022).
+**Despido de un aforado** (fueros de los arts. 221, 224, 229, 238, 243 y 309). Es práctica
+antisindical y no produce efecto (art. 292):
+
+- **Reincorporación.** En la primera resolución, de oficio o a petición de parte, el juez ordena la
+  reincorporación inmediata y el pago de las remuneraciones desde el despido.
+- **Apercibimiento.** Multa de 50 a 100 UTM.
+- **Cumplimiento.** Fija día, hora y funcionario que hará la reincorporación (puede ser de la
+  Inspección), y el pago debe acreditarse dentro de cinco días.
+- **Sin recurso.** Contra esa resolución no procede recurso alguno.
+
+La infracción a las normas de fuero sindical tiene además multa administrativa de 14 a 70 UTM (art.
+506). No se compensa con una "indemnización del fuero" (CA Concepción Rol 81-2022).
 Si además es discriminatorio, puede ser despido discriminatorio grave con la opción del art. 489 (CA
 Antofagasta Rol 164-2022).
 
@@ -120,11 +140,13 @@ o con abuso (CA Santiago Rol 2726-2020: fuero usado para fines personales). **De
 entorpecer la libertad de opinión, el ingreso a asambleas o el sufragio.
 
 **Multas (art. 292).** Microempresa 5 a 25 UTM; pequeña 10 a 50; mediana 15 a 150; grande 20 a 300,
-según gravedad y número de trabajadores; se duplican o triplican en reincidencia; van al Fondo de
-Formación Sindical y Relaciones Laborales Colaborativas. Sin perjuicio de la responsabilidad penal.
+según gravedad y número de trabajadores involucrados o afiliados. En medianas y grandes empresas, la
+reincidencia permite duplicar o triplicar el rango (art. 506 inc. 6). Van al Fondo de Formación
+Sindical y Relaciones Laborales Colaborativas. Sin perjuicio de la responsabilidad penal.
 
 **Procedimiento.** Tutela (arts. 292 y 485 ss.): legitimados el trabajador, cualquier sindicato con
-interés legítimo y la Inspección; plazo de 60 días hábiles; la prueba es indiciaria y basta la
+interés legítimo y la Inspección, que está obligada a denunciar los hechos que conozca; plazo de 60
+días hábiles; la prueba es indiciaria y basta la
 afectación objetiva, sin probar intencionalidad (CA Santiago Rol 968-2021, Sindicato Vigilantes EFE).
 Copia de la sentencia condenatoria a la DT, que publica la nómina de infractores (art. 294 bis).
 
@@ -197,23 +219,62 @@ cinco). Si no se aprueba, el sindicato tiene tres días para pedir el piso; si n
 la última oferta. Durante la huelga, el contrato se suspende: no hay remuneración y las cotizaciones son
 voluntarias, pero no se afecta la antigüedad y el empleador debe mantener la sala cuna.
 
-**Reemplazo.** Está prohibido y es práctica desleal grave (art. 345): la Inspección exige el retiro
-inmediato y, si el empleador se niega, denuncia; el juez ordena el retiro bajo multa (50 a 100 UTM),
-reparación del daño y multas del art. 406 (art. 400). El empleador puede modificar turnos y hacer
+**Reemplazo.** Está prohibido y es práctica desleal grave (art. 345):
+
+- **Ante la Inspección.** La Inspección exige el retiro inmediato de los reemplazantes.
+- **Denuncia por tutela.** Si el empleador se niega, la Inspección denuncia por tutela **sin
+  mediación previa**. El sindicato puede iniciar la acción o hacerse parte.
+- **Primera resolución.** El juez ordena el retiro inmediato bajo el apercibimiento del art. 492 (50
+  a 100 UTM).
+- **Sentencia.** Puede condenar a indemnizar el daño causado a los afectados, además de la multa del
+  art. 406 (art. 400). El empleador puede modificar turnos y hacer
 adecuaciones sólo para que los no huelguistas cumplan sus propias funciones; usar a otros trabajadores
 para hacer las labores de los huelguistas neutraliza la presión (CA San Miguel Rol 655-2018, Traverso).
 Tampoco puede trasladar no huelguistas de otro establecimiento. Los no huelguistas conservan su
 libertad de trabajo.
 
-**Otras instituciones.** Lock-out (art. 353): sólo si la huelga afecta a más del 50% de los trabajadores
-o paraliza actividades indispensables, hasta 30 días; reclamable ante la Inspección. Reintegro
-individual (art. 357): en gran y mediana empresa desde el día 16 si la oferta cumple el art. 346 (si
-no, día 30); en micro y pequeña desde el día 6 (si no, día 16). Servicios mínimos y equipos de
-emergencia (arts. 359 a 361): calificación administrativa con revisión judicial; su incumplimiento por
-el sindicato es práctica desleal. Empresas sin derecho a huelga (art. 362): resolución conjunta de
-ministerios cada dos años, reclamable ante la Corte de Apelaciones en 15 días desde su publicación (art.
-402). Reanudación de faenas (art. 363): por grave daño a la salud, el abastecimiento, la economía o la
-seguridad nacional, ante el JLT por el monitorio.
+**Otras instituciones.**
+
+**Lock-out (arts. 353 y 354).**
+
+- **Oportunidad.** Sólo puede declararse, total o parcial, una vez que la huelga se hizo efectiva.
+- **Requisito.** La huelga debe afectar a más del 50% de los trabajadores de la empresa o del
+  establecimiento, o paralizar actividades imprescindibles para su funcionamiento (art. 354).
+- **Duración.** Hasta 30 días desde que se hizo efectiva la huelga o hasta su término, lo que ocurra
+  primero.
+- **Alcance.** No afecta a los trabajadores impedidos de negociar del art. 305 inc. 1.
+- **Reclamo.** Ante la Inspección, que califica en tres días; luego judicialmente por la vía del
+  art. 504.
+
+**Reintegro individual (art. 357).**
+
+| Empresa | Desde qué día, si la oferta cumple el art. 346 | Si no cumple |
+|---|---|---|
+| Gran y mediana | Día 16 | Día 30 |
+| Micro y pequeña | Día 6 | Día 16 |
+
+La oferta debe contener idénticas estipulaciones a las del instrumento vigente reajustadas por IPC,
+y reajustabilidad mínima anual por IPC. Los reincorporados quedan en las condiciones de la última
+oferta.
+
+**Servicios mínimos y equipos de emergencia (arts. 359 a 361).** Calificación administrativa con
+revisión judicial. Su incumplimiento por el sindicato es práctica desleal.
+
+**Empresas sin derecho a huelga (art. 362).**
+
+- Las califica cada dos años, en julio, una resolución conjunta de los ministerios del Trabajo,
+  Defensa y Economía.
+- Las solicitudes fundadas se presentan hasta el 31 de mayo.
+- La calificación es reclamable ante la Corte de Apelaciones en 15 días desde su publicación (art.
+  402).
+
+**Reanudación de faenas (art. 363).**
+
+- **Causal.** Grave daño a la salud, el abastecimiento, la economía o la seguridad nacional.
+- **Tramitación.** Se pide ante el JLT por el monitorio, sin reclamo previo ante la Inspección.
+- **Legitimados.** Las empresas, la DT o los sindicatos.
+- **Arbitraje.** Debe notificarse a la DT para el arbitraje (art. 387).
+- **Efecto.** Se reanuda en las mismas condiciones vigentes al presentar el proyecto.
 
 ## Prácticas desleales en la negociación (arts. 403 a 407)
 
@@ -240,7 +301,7 @@ eventuales, federaciones) y fallo arbitral (art. 320). Deben constar por escrito
 Inspección dentro de cinco días. Contenido mínimo (art. 321): partes, beneficios detallados, vigencia
 y acuerdo de extensión o mención de no haberlo.
 
-**Duración (art. 324, verificado).** Contratos colectivos, acuerdos de grupo y fallos arbitrales: entre
+**Duración (art. 324).** Contratos colectivos, acuerdos de grupo y fallos arbitrales: entre
 dos y tres años; el firmado con el piso, 18 meses; convenios, máximo tres años. Si hubo huelga, la
 vigencia corre desde la firma y la duración desde el vencimiento del anterior (o desde el día 45 desde
 el proyecto).

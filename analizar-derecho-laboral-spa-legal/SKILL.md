@@ -2,7 +2,7 @@
 name: analizar-derecho-laboral-spa-legal
 description: >-
   Analiza casos de derecho del trabajo chileno (individual, colectivo y procesal) con cinco manuales
-  de la Academia Judicial cotejados con la ley vigente a octubre de 2026. Úsala siempre que Nacho o el
+  de la Academia Judicial cotejados con el texto oficial de LeyChile a octubre de 2026. Úsala siempre que Nacho o el
   equipo de SPA Legal pidan evaluar un despido o autodespido, nulidad del despido, indemnizaciones o
   finiquito, una relación laboral encubierta (honorarios, plataformas), subcontratación o multirut,
   tutela laboral, acoso laboral o sexual y Ley Karin, discriminación o represalias, fueros y
@@ -38,11 +38,17 @@ Chile**:
   Cruces, Lorca y Villalón (2021): competencia, principios, cada procedimiento paso a paso, plazos de
   audiencias, notificaciones, recursos, cumplimiento, títulos ejecutivos y tramitación electrónica.
 
-Todo ese contenido fue cotejado con el texto vigente y las reformas posteriores a cada manual (Ley
-Karin, ley de 40 horas, ley de conciliación, reforma de pensiones, nuevas leyes de 2025-2026,
-ingreso mínimo actual, competencia del Juzgado de Letras del Trabajo de Valparaíso). El resultado del
-cotejo, las correcciones a los manuales y los puntos que conviene confirmar literalmente en LeyChile
-están en `references/vigencia-y-reformas.md`.
+Todo ese contenido fue cotejado, artículo por artículo, con el **texto oficial de LeyChile**:
+
+- el Código del Trabajo en su versión consolidada del 23-07-2026;
+- las leyes posteriores a cada manual, en su texto publicado: Ley Karin, 40 horas, Ley 21.394
+  (monitorio hasta 15 ingresos mínimos, notificaciones electrónicas y videoconferencia),
+  conciliación, compras públicas, adopción, nuevos tribunales, Servicio de Acceso a la Justicia e
+  ingreso mínimo actual.
+
+Donde un manual quedó desactualizado o contiene un error, las referencias aplican el texto vigente y
+lo advierten. El detalle de reformas, correcciones y lo que conviene revisar antes de citar está en
+`references/vigencia-y-reformas.md`.
 
 ## Cómo usar esta skill
 
@@ -60,7 +66,8 @@ están en `references/vigencia-y-reformas.md`.
    hechos ocurrieron "hoy".
 3. **Lee siempre `references/vigencia-y-reformas.md`.** Es breve y evita aplicar reglas que los
    manuales describen pero que hoy cambiaron (por ejemplo, el procedimiento de acoso anterior a la
-   Ley Karin, la jornada de 45 horas o la extensión del art. 485).
+   Ley Karin, la jornada de 45 horas, el monitorio de 10 ingresos mínimos o la extensión del art.
+   485).
 4. **Califica el conflicto y carga sólo las referencias pertinentes** según el "Mapa de
    referencias". No es necesario leer los diez archivos en cada consulta: un despido verbal con
    cotizaciones impagas exige `terminacion-del-contrato.md` y `plazos-montos-y-calculos.md`; una
@@ -77,8 +84,8 @@ están en `references/vigencia-y-reformas.md`.
 
 | Tema | Archivo |
 |---|---|
-| Fuentes, fecha del cotejo, reformas posteriores a los manuales, correcciones, proyectos en trámite y puntos por confirmar en LeyChile | `references/vigencia-y-reformas.md` |
-| Plazos de caducidad y prescripción, días hábiles, fórmulas de indemnizaciones y recargos, topes, ingreso mínimo vigente, umbral del monitorio | `references/plazos-montos-y-calculos.md` |
+| Fuentes, fecha y método del cotejo oficial, reformas posteriores a los manuales, correcciones a los manuales, proyectos en trámite y qué revisar antes de citar | `references/vigencia-y-reformas.md` |
+| Plazos de caducidad y prescripción, días hábiles, fórmulas de indemnizaciones y recargos, topes, ingreso mínimo vigente, umbrales del monitorio (15 IMM) y del reclamo de multas (10 IMM) | `references/plazos-montos-y-calculos.md` |
 | Principios, existencia de relación laboral (arts. 7 y 8, indicios, honorarios, plataformas), escrituración, cláusulas tácitas, contratos a plazo y por obra | `references/calificacion-y-contrato.md` |
 | Subcontratación (183-A ss.), suministro de trabajadores (183-F ss.), empleador, cambio de dueño, grupo de empresas o multirut (art. 3 y 507) | `references/subcontratacion-suministro-y-grupo-de-empresas.md` |
 | Poder de dirección, ius variandi (art. 12), reglamento interno, potestad disciplinaria, control tecnológico y privacidad, deber de seguridad, jornada (40 horas), conciliación | `references/potestades-jornada-y-privacidad.md` |
@@ -127,10 +134,16 @@ Valparaíso; están identificados en las referencias.
 
 Los manuales tienen fechas distintas (2020 a 2025) y la legislación laboral cambió mucho desde
 entonces. Cuando una regla provenga de un manual anterior a una reforma, dilo y aplica el texto
-vigente. Si el usuario necesita citar literalmente un artículo en un escrito, recomiéndale verificar
-la redacción exacta en LeyChile: el cotejo se hizo con fuentes secundarias confiables porque el
-acceso directo a LeyChile no estuvo disponible, y algunos puntos quedaron marcados como "por
-confirmar".
+vigente.
+
+Los artículos citados en las referencias se cotejaron con el texto oficial de LeyChile al 08-10-2026.
+La jurisprudencia y los dictámenes de 2025-2026 vienen de fuentes secundarias: para citarlos en un
+escrito, conviene obtener el fallo o el dictamen completo. Si la consulta es posterior a octubre de
+2026, advierte que puede haber reformas nuevas. Revisa en especial:
+
+- la entrada en vigencia de la Ley de Adopción;
+- el reajuste del ingreso mínimo de 2027;
+- la llegada del Servicio de Acceso a la Justicia a Valparaíso.
 
 No confundas la caducidad con la prescripción: los 60 días hábiles del art. 168 (y de los arts.
 171, 486 y 489) son de caducidad y el tribunal debe declararlos de oficio; los plazos del art. 510

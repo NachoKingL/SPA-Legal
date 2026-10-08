@@ -1,8 +1,9 @@
 # Término del contrato, indemnizaciones, nulidad del despido y fueros
 
 Fuentes: MD81, cap. 4 (Guidi y Riffo, 2025), con jurisprudencia de unificación hasta 2023; MD4 y MD66
-para fueros; cotejo de vigencia (arts. 163 bis, 168, 171, 177, nulidad del despido 2025-2026, Leyes
-21.565, 21.797 y 21.760). Para plazos y fórmulas de cálculo, ver `plazos-montos-y-calculos.md`.
+para fueros. Los arts. 159 a 177, 174 y 201 se cotejaron con el texto oficial del Código (LeyChile,
+versión 23-07-2026), junto con las Leyes 21.565, 21.797 y 21.760; la jurisprudencia de 2025-2026 viene
+de fuentes secundarias. Para plazos y fórmulas de cálculo, ver `plazos-montos-y-calculos.md`.
 
 ## Sistema
 
@@ -98,41 +99,81 @@ trabajadores de casa particular y cargos de exclusiva confianza por su naturalez
 etiqueta). Aviso escrito de 30 días con copia a la Inspección, o pago de una última remuneración. Es
 controlable por tutela si vulnera derechos.
 
-**Prohibición.** No puede invocarse el art. 161 mientras el trabajador está con licencia médica (art.
+**Prohibición.** Ni las necesidades de la empresa ni el desahucio pueden invocarse respecto de
+trabajadores con licencia por enfermedad común, accidente del trabajo o enfermedad profesional (art.
 161 inc. final). Se trata de una norma prohibitiva: el despido es ilegal.
 
-La comunicación por el art. 161 contiene una **oferta irrevocable** de pago de las indemnizaciones
-(art. 169 a), que se pagan de una vez al firmar el finiquito, salvo pacto de cuotas con intereses y
-reajustes ratificado ante la Inspección.
+**Oferta irrevocable (art. 169 a).** La comunicación por el art. 161 contiene una oferta irrevocable
+de pago de la sustitutiva y de la indemnización por años de servicio (también de la de obra o faena
+del art. 163 inc. 3). Se pagan de una vez al extender el finiquito. Pueden pactarse cuotas con
+intereses y reajustes, ratificadas ante la Inspección; si se incumple el pacto, se hace exigible el
+total y hay multa. **Si no se pagan**, el trabajador cobra por el **procedimiento ejecutivo**:
+la carta de aviso del art. 162 inc. 4 sirve de título y el juez puede **incrementarlas hasta en un
+150%**. Si el trabajador reclama la improcedencia de la causal y pierde, sólo recibe esas
+indemnizaciones con reajuste, sin intereses (art. 169 b).
 
 ## Art. 161 bis y art. 163 bis
 
 **Invalidez (161 bis).** La invalidez total o parcial no es justa causa; si se despide, se paga la
 indemnización por años de servicio con un 50% de recargo.
 
-**Liquidación concursal del empleador (163 bis).** El contrato termina de pleno derecho a la fecha de
-**dictación** de la resolución de liquidación. El liquidador debe comunicarlo personalmente o por
-carta certificada al domicilio del contrato, con certificado de la Superintendencia de Insolvencia y
-Reemprendimiento, dentro de un plazo fatal de hasta seis días hábiles desde la notificación de la
-resolución, con copia a la Inspección; un error u omisión no invalida el término (sólo da lugar a
-sanciones al liquidador). El trabajador tiene derecho a la sustitutiva y a la indemnización por años
-de servicio como si se hubiera aplicado el art. 161 (DT Ord. 2256/2021); la trabajadora con fuero
-maternal recibe además las remuneraciones del período restante. El liquidador pone el finiquito a
-disposición para que sirva de título de verificación [plazo por confirmar]. La nulidad del despido no
-se extiende más allá de la resolución de liquidación (CS unificación febrero de 2025; CA Santiago
-agosto de 2025), pero procede si el despido fue anterior a ella (CS Rol 16.584-2016). En concurso, los
-créditos por nulidad del despido tienen la preferencia del art. 2472 N°8 del Código Civil, con su
-tope, no la del N°5 (CS, julio de 2026). Complementa con `analizar-liquidacion-concursal-spa-legal`.
+**Liquidación concursal del empleador (163 bis).**
+
+- **Término.** El contrato termina de pleno derecho a la fecha de **dictación** de la resolución de
+  liquidación.
+- **Comunicación (N°1).** El liquidador debe comunicarlo personalmente o por carta certificada al
+  domicilio del contrato, con certificado de la Superintendencia de Insolvencia y Reemprendimiento,
+  dentro de un plazo de hasta seis días hábiles desde la notificación de la resolución, con copia a
+  la Inspección. Un error u omisión no invalida el término: da lugar a sanciones de la
+  Superintendencia (art. 338 de la Ley 20.720) y eventual responsabilidad penal del liquidador. El
+  texto excluye expresamente el efecto del art. 162 inc. 5 (nulidad del despido).
+- **Sustitutiva (N°2).** Se calcula con el promedio de las tres últimas remuneraciones mensuales (o
+  de las dos, o la última, si trabajó menos).
+- **Años de servicio (N°3).** Se calcula como en el art. 163 incs. 1 y 2 y es compatible con la
+  sustitutiva (DT Ord. 2256/2021).
+- **Fuero (N°4).** No se requiere desafuero. A la trabajadora con fuero maternal se le paga la
+  última remuneración por cada mes de fuero que reste, descontando las semanas cubiertas por
+  subsidio. Esa indemnización es compatible con la de años de servicio, **pero no con la
+  sustitutiva**.
+- **Finiquito (N°5).**
+  - El liquidador lo pone a disposición al menos **10 días antes del vencimiento del período
+    ordinario de verificación de créditos**.
+  - Puede autorizarse ante notario o inspector aunque haya cotizaciones impagas, y el liquidador lo
+    acompaña al tribunal en dos días.
+  - Basta para la verificación. La reserva de derechos limita la verificación y el pago
+    administrativo a lo aceptado, y no se entiende renunciado el cobro de cotizaciones que el
+    finiquito no mencione.
+  - El liquidador reserva fondos por 30 días para los finiquitos no suscritos.
+- **Nulidad del despido.** No se extiende más allá de la resolución de liquidación (CS unificación
+  febrero de 2025; CA Santiago agosto de 2025), pero procede si el despido fue anterior a ella (CS
+  Rol 16.584-2016).
+- **Preferencia.** En concurso, los créditos por nulidad del despido tienen la preferencia del art.
+  2472 N°8 del Código Civil, con su tope, no la del N°5 (CS, julio de 2026).
+
+Complementa con `analizar-liquidacion-concursal-spa-legal`.
 
 ## La carta de despido (art. 162)
 
 Debe ser escrita y entregarse personalmente o enviarse por carta certificada al domicilio señalado en
 el contrato, con copia a la Inspección en el mismo plazo (o por medios electrónicos de la DT).
-Contenido: la o las causales (se pueden invocar varias del art. 160), **los hechos en que se funda**
-(salvo el desahucio), el estado de pago de las cotizaciones previsionales hasta el último día del mes
-anterior con sus comprobantes, y, si es por el art. 161, el monto de las indemnizaciones. Plazos: 3
-días hábiles desde la separación (159 N°4 y 5, y 160), 6 días hábiles (159 N°6), 30 días de
-anticipación o pago de la sustitutiva (161).
+Contenido:
+
+- la o las causales (se pueden invocar varias del art. 160);
+- **los hechos en que se funda** (salvo el desahucio);
+- el estado de pago de las cotizaciones previsionales hasta el último día del mes anterior, con sus
+  comprobantes;
+- si es por el art. 161, el monto total de las indemnizaciones, y también el de la indemnización por
+  obra o faena cuando corresponde;
+- si el finiquito se otorgará y pagará en forma presencial o electrónica, con la advertencia de que
+  el trabajador puede firmarlo con reserva de derechos (inc. 8).
+
+Plazos de la carta:
+
+- 3 días hábiles desde la separación: arts. 159 N°4 y 5, y 160;
+- 6 días hábiles: art. 159 N°6;
+- 30 días de anticipación, o pago de la sustitutiva: art. 161.
+
+La Inspección puede exigir que se acredite el envío, con multa de 2 a 20 UTM (inc. 10).
 
 En el juicio, el empleador prueba primero y **no puede invocar hechos distintos a los de la carta**
 (art. 454 N°1). Una carta vaga es la mejor defensa del trabajador. No enviar la carta al domicilio del
@@ -142,11 +183,19 @@ formales no invalidan el término, pero pueden generar multas.
 
 ## Finiquito (art. 177)
 
-Debe otorgarse y su pago ponerse a disposición dentro de **10 días hábiles** desde la separación. Debe
-constar por escrito y, para que el empleador pueda invocarlo, estar firmado ante el presidente del
-sindicato o delegado sindical o ratificado ante ministro de fe, que antes debe exigir la acreditación
-del pago de cotizaciones; o suscribirse electrónicamente en el portal de la DT (equivale a
-ratificación ante inspector). El trabajador puede rechazar la vía electrónica y exigir la presencial.
+Debe otorgarse y su pago ponerse a disposición dentro de **10 días hábiles** desde la separación.
+
+- **Forma.** Debe constar por escrito y, para que el empleador pueda invocarlo, estar firmado ante
+  el presidente del sindicato o el delegado sindical, o ratificado ante un ministro de fe:
+  inspector, notario de la localidad, oficial del Registro Civil de la comuna o secretario
+  municipal.
+- **Cotizaciones.** El ministro de fe debe exigir los certificados de pago de cotizaciones de
+  pensiones, salud y seguro de cesantía hasta el mes anterior. Si hay deuda, debe dejar constancia de
+  que el finiquito no pone término al contrato.
+- **Vía electrónica.** Puede suscribirse en el portal de la DT, lo que equivale a la ratificación
+  ante inspector. El trabajador puede rechazarla y exigir la presencial.
+- **Vicios del consentimiento.** El error, la fuerza o el dolo se reclaman en el plazo del art. 168
+  inc. 1, suspendible.
 El finiquito no es requisito del término (CS Rol 103-2001). Ratificado, tiene mérito ejecutivo para lo
 pendiente y poder liberatorio, pero **sólo respecto de lo expresamente concordado** (inciso final
 agregado por la Ley 21.361). El trabajador puede firmar con **reserva de derechos**, cobrar lo
@@ -157,10 +206,17 @@ contratos de hasta 30 días no requieren finiquito salvo prórroga o continuidad
 
 Procede contra el término por los arts. 159, 160 o 161 o sin causal, dentro de 60 días hábiles desde
 la **separación efectiva** (CS unificación Rol 6634-2013), con suspensión por reclamo ante la
-Inspección y tope de 90 días hábiles. Si se acoge, el juez ordena la sustitutiva, la indemnización por
-años de servicio y el recargo según la causal (30, 50, 80 o 100%). El contrato no revive. Si las
-causales de los arts. 159 o 160 no se acreditan, el término se entiende por el art. 161. Competencia:
-domicilio del demandado o lugar de prestación de los servicios a elección del demandante (art. 423).
+Inspección y tope de 90 días hábiles.
+
+- **Si se acoge.** El juez ordena la sustitutiva, la indemnización por años de servicio y el recargo
+  según la causal (30, 50, 80 o 100%). El contrato no revive.
+- **Causal no acreditada.** Si las causales de los arts. 159 o 160 no se acreditan, el término se
+  entiende por el art. 161 "en la fecha en que se invocó la causal", con los incrementos.
+- **Excepción por acoso.** Si se despidió al denunciado por acoso sexual habiendo cumplido el art. 153
+  inc. 2 y el Título IV del Libro II, no hay recargo alguno (art. 168 inc. 3). En acoso laboral o
+  violencia, el cumplimiento íntegro del Título IV sólo excluye el recargo del 80% (art. 154 N°12).
+- **Competencia.** Domicilio del demandado o lugar de prestación de los servicios, a elección del
+  demandante (art. 423).
 
 ## Autodespido o despido indirecto (art. 171)
 
@@ -169,7 +225,9 @@ El trabajador pone término al contrato cuando el empleador incurre en las causa
 incumplimiento del deber de seguridad son los casos típicos). Debe comunicarlo por escrito al
 empleador, con copia a la Inspección, dentro de 3 días hábiles, y demandar dentro de 60 días hábiles.
 Si se acoge: sustitutiva, años de servicio con recargo del 50% (N°7) o hasta 80% (N°1 y N°5), y en
-las letras a), b) y f) del N°1 además otras indemnizaciones (daño moral). Es compatible con la nulidad
+las letras a), b) y f) del N°1 además otras indemnizaciones (daño moral). Si el empleador no observó
+el procedimiento del Título IV del Libro II ante una denuncia de acoso o violencia, responde por el
+autodespido en los mismos términos (art. 171 inc. 3). Es compatible con la nulidad
 del despido (CS Rol 18.465-2016; CA San Miguel Rol 642-2019) y con la tutela del art. 489 (CS
 unificación Rol 11.200-2015). Si se rechaza, se entiende que el trabajador renunció y pierde las
 indemnizaciones y la nulidad. Si invocó falsamente las letras b) o f), o para lesionar la honra, y la
@@ -193,9 +251,9 @@ demás prestaciones desde el despido hasta la **convalidación**: pago íntegro 
 morosas y comunicación al trabajador por carta certificada con los comprobantes. El TC (octubre de
 2025) declaró inaplicable en un caso concreto la exigencia de la carta certificada posterior al pago.
 
-**Excepción por deuda menor.** No se aplica la sanción si la deuda no excede la cantidad menor entre
-el 10% del total de cotizaciones adeudadas o 2 UTM, y el empleador la paga dentro de 15 días hábiles
-desde la notificación de la demanda [inciso por confirmar].
+**Excepción por deuda menor (art. 162 inc. 7).** No se aplica la sanción si la deuda no excede la
+cantidad menor entre el 10% del total de la deuda previsional o 2 UTM, y el empleador la paga dentro
+de 15 días hábiles desde la notificación de la demanda.
 
 **Plazo.** Prescribe en 6 meses desde la suspensión de los servicios (art. 510), pero si se demanda
 con el despido injustificado manda la caducidad de 60 días de esa acción.
@@ -220,21 +278,44 @@ se reincorpora con las remuneraciones reajustadas. El desafuero no procede por v
 demanda de desafuero por el art. 160 debe presentarse oportunamente para no configurar perdón de la
 causal.
 
-**Aforados.** Maternidad (embarazo y hasta un año después del descanso postnatal, art. 201; también
-el padre en ciertos casos y quien adopta, desde la resolución que le confía el cuidado personal);
-dirigentes sindicales, desde la elección hasta seis meses después de cesar; trabajadores que
-constituyen un sindicato y candidatos; delegados sindicales y del personal; un representante en el
-comité paritario; trabajadores involucrados en la negociación colectiva reglada (art. 309); víctimas
-de femicidio frustrado o tentado, por un año desde el hecho (Ley 21.565); trabajadores a quienes se
-les murió un hijo o el cónyuge o conviviente civil, por un mes (art. 66; en contratos a plazo u obra,
-según la Ley 21.797, por el mismo período o hasta el término del contrato [confirmar]). Detalle del
-fuero sindical en `derecho-colectivo.md`.
+**Aforados.**
 
-**Despido de una trabajadora con fuero maternal sin autorización.** Se reclama por el procedimiento
-monitorio, cualquiera sea la cuantía (MD19). Si el empleador despidió ignorando el embarazo, la medida
-queda sin efecto con la sola presentación del certificado médico o de matrona (art. 201, regla general
-del Código [confirmar alcance de las remuneraciones]). En el fuero sindical, la reincorporación se
-ordena en la primera resolución (art. 292; ver `derecho-colectivo.md`).
+- **Maternidad (art. 201).**
+  - La trabajadora, desde el embarazo hasta un año después del descanso de maternidad, excluido el
+    postnatal parental.
+  - El padre que usa el postnatal parental, por el doble de su permiso, desde 10 días antes de
+    iniciarlo y con un máximo de tres meses.
+  - Quien adopta, por un año desde la resolución que le confía el cuidado personal o la tuición (Ley
+    19.620, mientras no entre en vigencia la Ley 21.760). Ese fuero cesa si se pone término al
+    cuidado o se deniega o deja sin efecto la adopción.
+  - Si el fuero termina durante el descanso, la trabajadora sigue recibiendo el subsidio.
+- **Sindicales:**
+  - dirigentes, desde la elección hasta seis meses después de cesar;
+  - trabajadores que constituyen un sindicato, y candidatos;
+  - delegados sindicales y del personal;
+  - un representante en el comité paritario;
+  - trabajadores involucrados en la negociación colectiva reglada (art. 309).
+- **Víctimas de femicidio frustrado o tentado**, por un año desde el hecho (Ley 21.565, art. 8).
+- **Duelo (art. 66).** Quien pierde un hijo o al cónyuge o conviviente civil tiene fuero por un mes
+  desde el fallecimiento. En contratos a plazo fijo u obra, ese fuero "se mantendrá vigente por el
+  mismo periodo o hasta el término de dicho contrato" (Ley 21.797, texto confirmado). La muerte del
+  hijo en gestación, del padre, de la madre o de un hermano da permiso, pero no fuero.
+
+Detalle del fuero sindical en `derecho-colectivo.md`.
+
+**Despido de una trabajadora con fuero maternal sin autorización.**
+
+- **Vía.** Se reclama por el procedimiento monitorio cualquiera sea la cuantía y sin reclamo previo
+  ante la Inspección (arts. 496 y 497).
+- **Despido por ignorancia del embarazo.** La medida queda sin efecto y la trabajadora vuelve con la
+  sola presentación del certificado médico o de matrona (o de la resolución que confió el cuidado
+  personal). Tiene derecho a las remuneraciones del tiempo que estuvo fuera si en ese período no
+  tuvo subsidio.
+- **Plazo.** Debe hacer efectivo ese derecho **dentro de 60 días hábiles desde el despido** (art.
+  201).
+
+En el fuero sindical, la reincorporación se ordena en la primera resolución (art. 292; ver
+`derecho-colectivo.md`).
 
 ## Daño moral y otras partidas
 

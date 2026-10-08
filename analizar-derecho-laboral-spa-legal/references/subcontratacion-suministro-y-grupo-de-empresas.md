@@ -1,7 +1,8 @@
 # Subcontratación, suministro, empleador y grupo de empresas
 
 Fuentes: MD81, cap. 2 (descentralización productiva), y MD66, cap. 2 (unidad de empleador en la
-negociación colectiva). Leyes 20.123 (2006) y 20.760 (2014).
+negociación colectiva). Leyes 20.123 (2006) y 20.760 (2014). Los arts. 3, 4, 183-A a 183-AC y 507 se
+cotejaron con el texto oficial del Código (LeyChile, versión 23-07-2026).
 
 ## Quién es el empleador
 
@@ -29,16 +30,17 @@ medios propios y dirigiendo a sus trabajadores. Si la contratista es una mera in
 dirige es la principal, hay **subcontratación impropia**: la principal es el empleador (art. 183-A
 inc. 2).
 
-**Responsabilidad de la principal.** Por regla general es **solidaria** respecto de las
-obligaciones laborales y previsionales de dar de la contratista (art. 183-B). Pasa a ser
-**subsidiaria** si la principal ejerció sus derechos de información y retención (arts. 183-C y
-183-D): pedir mensualmente, durante todo el período, certificados de la Inspección u otros medios
-idóneos del cumplimiento; si la contratista no acredita, retener los pagos y pagar con ellos al
-trabajador o a la institución previsional (puede pagar por subrogación). Pedir información sólo
-algunos meses no basta (CA Talca Rol 60-2008). Hay un debate sobre el régimen general (Lizama y
-Ugarte lo ven subsidiario agravable a solidario, con CS Rol 12.932-2013; Lanata lo ve solidario
-atenuable a subsidiario, con CA Santiago Rol 361-2016), pero en la práctica la carga de acreditar el
-control mensual es de la principal.
+**Responsabilidad de la principal.** Por regla general es **solidaria** respecto de las obligaciones
+laborales y previsionales de dar de la contratista (art. 183-B). Pasa a ser **subsidiaria** si la
+principal ejerció sus derechos de información y retención (arts. 183-C y 183-D): pedir mensualmente,
+durante todo el período, certificados de la Inspección u otros medios idóneos del cumplimiento; si
+la contratista no acredita, retener los pagos y pagar con ellos al trabajador o a la institución
+previsional (puede pagar por subrogación). También es subsidiaria si, notificada por la DT de
+infracciones de la contratista, retiene los pagos (183-D). Pedir información sólo algunos meses no
+basta (CA Talca Rol 60-2008). Hay un debate sobre el régimen general (Lizama y Ugarte lo ven
+subsidiario agravable a solidario, con CS Rol 12.932-2013; Lanata lo ve solidario atenuable a
+subsidiario, con CA Santiago Rol 361-2016), pero en la práctica la carga de acreditar el control
+mensual es de la principal.
 
 **Alcance.** Temporal: sólo el período en que el trabajador prestó servicios bajo el régimen de
 subcontratación para esa principal. Sustancial: obligaciones laborales y previsionales de dar,
@@ -50,7 +52,8 @@ prescripción. La CS (agosto de 2026) condenó al MOP como principal por la nuli
 trabajador subcontratado, pero limitó sus efectos a la fecha de la liquidación concursal de la
 contratista. El Estado puede ser empresa principal (CS unificación Rol 30.292-2017, 22-02-2018;
 desde Rol 12.932-2013). Se excluye la persona natural que encarga una construcción para sí por un
-precio único prefijado (art. 183-B inc. final).
+precio único prefijado (art. 183-B inc. final). El trabajador puede demandar en un mismo juicio a su
+empleador directo y a todos los que puedan responder de sus derechos (art. 183-B inc. 4).
 
 **Seguridad: responsabilidad directa.** La principal debe adoptar las medidas para proteger la vida
 y salud de todos los trabajadores que laboran en su obra o faena (art. 183-E; art. 66 bis Ley 16.744;
@@ -65,20 +68,35 @@ una contratista incurre en práctica desleal (art. 405), aunque puede ejecutar p
 
 **Requisitos de la empresa de servicios transitorios (EST).** Persona jurídica de objeto exclusivo,
 inscrita en el registro de la DT (183-K), con garantía (183-J). Actuar como EST sin cumplirlos se
-sanciona con multa de 80 a 500 UTM (183-L).
+sanciona con multa de 80 a 500 UTM, aplicada por resolución del Director del Trabajo y reclamable
+ante el JLT dentro de quinto día (183-L).
 
-**Causales y plazos (183-Ñ y 183-O).** Reemplazo por licencias, descansos de maternidad o feriado
-(por el tiempo de la ausencia); eventos extraordinarios (90 días, renovables por 90); proyectos
-nuevos y específicos (180 días, renovables por 180); inicio de actividades de empresas nuevas (180
-más 180); aumentos ocasionales o extraordinarios de actividad (90 más 90); trabajos urgentes,
-precisos e impostergables. Trabajadores con discapacidad: hasta seis meses renovables (183-AC).
+**Causales y plazos (183-Ñ y 183-O).**
+
+| Causal (183-Ñ) | Plazo máximo en la misma usuaria (183-O) |
+|---|---|
+| a) Suspensión del contrato de uno o más trabajadores por licencias médicas, descansos de maternidad o feriados | Lo que dure la ausencia |
+| b) Eventos extraordinarios (congresos, ferias, exposiciones) | 90 días |
+| c) Proyectos nuevos y específicos | 180 días |
+| d) Inicio de actividades de empresas nuevas | 180 días |
+| e) Aumentos ocasionales, sean o no periódicos, o extraordinarios de actividad en una sección, faena o establecimiento | 90 días |
+| f) Trabajos urgentes, precisos e impostergables que requieran ejecución inmediata (por ejemplo, reparaciones) | No lo fija el 183-O |
+
+Los plazos de 90 y 180 días **no son susceptibles de renovación**. Si al terminar el contrato
+subsisten las circunstancias, sólo puede prorrogarse hasta completar los 90 o 180 días. MD81 habla
+de "90 más 90" y "180 más 180": es un error. Trabajadores con discapacidad: en las causales b) y e),
+hasta seis meses renovables (183-AC).
 
 **Prohibiciones (183-P).** Suministrar para cargos de representación (gerentes, subgerentes,
-agentes, apoderados), para reemplazar huelguistas o para ceder trabajadores a otra EST.
+agentes, apoderados), para reemplazar huelguistas o para ceder trabajadores a otra EST. Si se
+infringe, el trabajador se considera dependiente de la usuaria bajo el régimen común, y la usuaria
+paga una multa de 10 UTM por cada trabajador.
 
 **Contratos.** El contrato de puesta a disposición entre EST y usuaria es solemne y escrito (partes,
-causal, puestos, duración, precio); si falta, los trabajadores son de la usuaria (183-N; CS
-unificación Rol 43.586-2020, 21-10-2021, Vergara Suazo con Gestión RRHH EST). El contrato de servicios
+causal, puestos, duración, precio, transporte e instalaciones). Debe escriturarse dentro de cinco
+días desde la incorporación del trabajador, o de dos si dura menos de cinco. Si falta, los
+trabajadores son de la usuaria (183-N; CS unificación Rol 43.586-2020, 21-10-2021, Vergara Suazo
+con Gestión RRHH EST). El contrato de servicios
 transitorios se escritura dentro de cinco días, o de dos si dura menos de cinco (183-R). Es nula la
 cláusula que prohíba a la usuaria contratar directamente al trabajador (183-Q). La EST no puede
 cobrar al trabajador (183-S).
@@ -108,8 +126,9 @@ sociedades (CS unificación Rol 18.907-2021, 2022, Rathgeb Valdebenito con Ruiz)
 afectados sus derechos. Oportunidad: en cualquier momento mientras subsista la situación, pero no
 durante el período de negociación colectiva; si el juicio se prolonga más allá de la presentación
 del proyecto, se suspenden los plazos de la negociación y se prorroga el instrumento vigente hasta
-30 días después de ejecutoriada la sentencia. Se tramita en procedimiento de aplicación general,
-previo informe de la DT.
+30 días después de ejecutoriada la sentencia. Se tramita en procedimiento de aplicación general.
+El juez puede pedir informe a la DT, y debe pedirlo siempre que lo solicite el trabajador (art. 3
+inc. 7, modificado por la Ley 21.394).
 
 **Sentencia.** Individualiza las empresas que son un solo empleador; ordena medidas concretas para
 materializar esa calidad y cumplir las obligaciones laborales y previsionales, bajo multa de 50 a

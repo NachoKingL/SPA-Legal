@@ -1,7 +1,8 @@
 # Principios, calificación de la relación laboral y contrato
 
-Fuente principal: MD81, caps. 1 y 2 (Guidi y Riffo, 2025), con aportes de MD4 sobre principios y
-del cotejo de vigencia (Ley 21.431, Ley 21.327, Ley 21.122).
+Fuente principal: MD81, caps. 1 y 2 (Guidi y Riffo, 2025), con aportes de MD4 sobre principios. Los
+arts. 3 a 12, 22, 159 y 152 quáter P a 152 quinquies I se cotejaron con el texto oficial del Código
+(LeyChile, versión 23-07-2026).
 
 ## Principios que el tribunal aplicará
 
@@ -63,12 +64,36 @@ procede la nulidad del despido si no se pagaron cotizaciones (CS unificación Ro
 servicios a honorarios para tareas habituales pueden ser trabajadores regidos por el Código cuando
 la contratación excede el marco legal; revisa el caso con jurisprudencia actual de la CS.
 
-**Plataformas digitales (Ley 21.431, vigente desde el 01-09-2022; arts. 152 quáter O y
-siguientes).** Distingue trabajador de plataforma dependiente e independiente según el art. 7. Para
-el dependiente, es jornada todo el tiempo a disposición, desde la conexión hasta la desconexión
-voluntaria, y la empresa tiene deberes de información de riesgos. Para el independiente, la tarifa
-por hora no puede ser inferior a la proporción del ingreso mínimo aumentada en 20%, y hay derecho a
-desconexión (152 quáter Z). Antes de la ley, el JLT de Concepción (RIT M-724-2020, 15-10-2020,
+**Plataformas digitales (Ley 21.431, vigente desde el 01-09-2022; arts. 152 quáter P a 152 quinquies
+I).** El trabajador de plataforma es dependiente o independiente según concurran o no los requisitos
+del art. 7 (152 quáter Q y R).
+
+- **Dependiente.**
+  - Rigen las normas del capítulo y las generales del Código.
+  - Es jornada todo el tiempo a disposición, desde el acceso a la aplicación hasta la desconexión
+    voluntaria (152 quáter U).
+  - Su remuneración por hora no puede ser inferior a la proporción del ingreso mínimo aumentada en
+    20%, para compensar los tiempos de espera (152 quáter V).
+- **Independiente.**
+  - Contrato con menciones obligatorias (152 quáter X).
+  - Honorarios por hora no inferiores al ingreso mínimo dividido por 172, aumentado en 20% (152
+    quáter Y).
+  - Desconexión de al menos 12 horas continuas en 24, sin sanción por rechazar pedidos o no
+    conectarse (152 quáter Z).
+- **Reglas comunes.**
+  - Aviso de término con 30 días de anticipación si el servicio duró seis meses o más (152
+    quinquies A).
+  - **Tutela de derechos fundamentales también para el independiente** que en los últimos tres
+    meses promedió 30 o más horas semanales (152 quinquies B).
+  - Deber de informar el funcionamiento del servicio (152 quinquies C).
+  - Reserva de datos, con acceso en 15 días hábiles y portabilidad (152 quinquies D).
+  - Prohibición de discriminación por algoritmos, incluida la indirecta (152 quinquies E).
+  - Capacitación y elementos de protección a cargo de la empresa (152 quinquies F).
+  - Indemnizaciones por término calculadas sobre la remuneración promedio del último año
+    trabajado, excluidos los meses no trabajados, salvo que el art. 163 dé más (152 quinquies G).
+  - Derecho a constituir sindicatos sin autorización previa (152 quinquies H).
+
+Antes de la ley, el JLT de Concepción (RIT M-724-2020, 15-10-2020,
 Arredondo con Pedidos Ya) declaró laboral la relación de un repartidor: la libertad era aparente y
 las calificaciones, el GPS y los incentivos funcionaban como control. La CS (2023) confirmó que la
 DT puede dictaminar sobre estas relaciones (DT Ord. 1831/39, 19-10-2022). No hay unificación de la
@@ -86,8 +111,10 @@ razonabilidad (remuneración acorde al mercado, cláusulas normales, no benefici
 el trabajador debe probar primero la existencia de la relación.
 
 **Registro electrónico (art. 9 bis, Ley 21.327, desde el 01-10-2021).** El empleador registra el
-contrato en la DT dentro de 15 días; la falta de registro no genera la presunción de veracidad. La
-firma electrónica es válida (Ley 19.799, art. 3).
+contrato en la DT dentro de 15 días desde su celebración, y también las terminaciones. La presunción
+del art. 9 nace de la falta de escrituración, no de la falta de registro: el art. 9 bis no asocia
+presunción alguna a esa omisión (MD81). La firma electrónica es válida (Ley 19.799, art.
+3).
 
 **Cláusulas mínimas (art. 10).** Lugar y fecha; individualización de las partes con nacionalidad,
 domicilio, correo electrónico y fechas de nacimiento e ingreso; naturaleza de los servicios y lugar o

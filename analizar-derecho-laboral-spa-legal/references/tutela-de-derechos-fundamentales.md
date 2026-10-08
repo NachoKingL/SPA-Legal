@@ -1,8 +1,9 @@
 # Tutela de derechos fundamentales (arts. 485 a 495)
 
 Fuentes: MD4 (Gamonal y Guidi, 2020), obra de referencia sobre tutela; MD81, cap. 3; MD39, cap. 5;
-MD19 (reglas procesales); cotejo de vigencia (texto actual del art. 485, Ley 21.280, Ley 21.634,
-plazos).
+MD19 (reglas procesales). Los arts. 485 a 495, 2, 62 bis, 292, 294 y 152 quinquies B se cotejaron
+con el texto oficial del Código (LeyChile, versión 23-07-2026), y los arts. 4 y 35 septies con el de
+la Ley 19.886 (versión 05-02-2026).
 
 ## Qué protege
 
@@ -28,7 +29,19 @@ presentarse denuncia de tutela (art. 485 inc. final).
 los trabajadores, incluidos los del art. 1 inc. 2 (Administración, Congreso, Poder Judicial, empresas
 públicas) y los de los órganos de los capítulos VII, VIII, IX, X y XIII de la Constitución y órganos
 autónomos, zanjando la disputa entre la CS (unificación Rol 10.972-2013, Bussenius con CENABAST) y el
-TC (Rol 3853-2017).
+TC (Rol 3853-2017). Efectos especiales para ellos (art. 489 inc. final): si la vulneración ocurre
+con ocasión del despido, no hay sustitutiva ni indemnización por años de servicio, sólo la adicional
+de 6 a 11 remuneraciones; si el despido es discriminatorio grave, pueden optar entre esa
+indemnización y la reincorporación al cargo.
+
+**Trabajadores de plataformas digitales.** El art. 152 quinquies B extiende la tutela a los
+trabajadores de plataformas **independientes** que en los últimos tres meses promediaron 30 o más
+horas semanales de conexión, y también al término del contrato en represalia por actividad sindical.
+
+**Desigualdad salarial entre hombres y mujeres (art. 62 bis).** Se tramita por tutela, pero sólo
+"una vez que se encuentre concluido el procedimiento de reclamación" del reglamento interno (art.
+154 N°13, respuesta en 30 días). Agota primero ese reclamo; si el cliente ya no puede hacerlo,
+demanda por discriminación (art. 2) y argumenta en subsidio, como hace MD4.
 
 ## Cuándo hay lesión: el test de proporcionalidad
 
@@ -79,10 +92,19 @@ sindicato o un tercero del art. 291).
 
 ## Legitimación
 
-**Tutela con relación vigente (art. 486).** El trabajador afectado; cualquier organización sindical
-con interés legítimo (de base o de grado superior), como parte principal o tercero coadyuvante; la
-Inspección del Trabajo, que si conoce la vulneración debe denunciar acompañando el informe de
-fiscalización, previa mediación (salvo acoso sexual). El tribunal puede pedir informe a la DT.
+**Tutela con relación vigente (art. 486).** Pueden accionar:
+
+- el trabajador afectado;
+- cualquier organización sindical que invoque un derecho o interés legítimo;
+- el sindicato del afectado, como tercero coadyuvante (directamente o por su organización de grado
+  superior) o como parte principal;
+- la Inspección del Trabajo.
+
+La Inspección, si en ejercicio de sus facultades toma conocimiento de una vulneración, debe denunciar
+acompañando el informe de fiscalización. Antes debe hacer una **mediación obligatoria** entre las
+partes. No hay mediación cuando la vulneración consiste en acoso sexual (art. 211-D) ni en el
+reemplazo de trabajadores en huelga (art. 345). A requerimiento del tribunal, la Inspección debe
+emitir un informe sobre los hechos y puede hacerse parte.
 
 **Tutela por despido (art. 489).** Sólo el trabajador afectado.
 
@@ -111,21 +133,30 @@ unificación Rol 11.200-2015) y con la nulidad del despido.
 
 ## Tramitación
 
-Se sigue el procedimiento de aplicación general con reglas especiales: la tutela del art. 485 goza
-de **preferencia** en la tramitación y en los recursos (art. 488); el juez puede, en la primera
-resolución, de oficio o a petición de parte, **suspender los efectos del acto** impugnado cuando se
-trate de lesiones de especial gravedad o de efectos irreversibles y haya indicios suficientes, bajo
-apercibimiento de multa de 50 a 100 UTM repetible [monto por confirmar], resolución que no admite
-recurso (art. 492); también caben las cautelares generales del art. 444. La sentencia se dicta en la
-audiencia o dentro de 10 días (art. 494).
+Se sigue el procedimiento de aplicación general, con reglas especiales:
+
+- **Preferencia (art. 488).** La tutela goza de preferencia respecto de todas las demás causas del
+  tribunal, y sus recursos también. **Excepción:** cuando la tutela por despido se acumula con la
+  acción de despido injustificado, no rige esa preferencia (art. 489 inc. 7).
+- **Suspensión del acto (art. 492).** El juez, de oficio o a petición de parte, **debe** suspender
+  los efectos del acto impugnado en la primera resolución cuando los antecedentes muestran una lesión
+  de especial gravedad o efectos irreversibles. Puede hacerlo también "en cualquier tiempo" desde que
+  cuente con ellos. Lo hace bajo apercibimiento de multa de **50 a 100 UTM**, repetible hasta el
+  cumplimiento, y la resolución no admite recurso alguno.
+- **Cautelares.** También caben las cautelares generales del art. 444.
+- **Sentencia.** Se dicta en la audiencia o dentro de 10 días (art. 494).
 
 ## Sentencia y remedios (art. 495)
 
-La sentencia declara si existe la lesión y, si la acoge, ordena: (1) el cese inmediato de la conducta
-bajo el apercibimiento del art. 492; (2) las medidas concretas de reparación de las consecuencias,
-incluidas las indemnizaciones; y (3) las multas que procedan. El juez debe procurar que la situación
-vuelva al estado anterior y no puede aprobar un acuerdo que mantenga la conducta lesiva. Copia de la
-sentencia se remite a la DT para su registro.
+La sentencia declara si existe la lesión. Si la acoge, ordena:
+
+1. el cese inmediato de la conducta, bajo el apercibimiento del art. 492;
+2. las medidas concretas de reparación de las consecuencias, incluidas las indemnizaciones, también
+   bajo ese apercibimiento;
+3. las multas que procedan.
+
+El juez debe velar por que la situación vuelva al estado anterior y no puede autorizar un acuerdo
+que mantenga indemne la conducta lesiva. Copia de la sentencia se remite a la DT para su registro.
 
 La tutela es **inhibitoria** (cese), **restitutoria** (nulidad del acto lesivo, salvo el despido) y
 **resarcitoria** (daño moral, que procede con contrato vigente: CS Rol 28.922-2015). Admite **remedios
@@ -135,11 +166,25 @@ Inspección en horario de trabajo; en el JLT Copiapó RIT T-1-2008, regular el u
 electrónicos en el reglamento interno; en el 2° JLT Santiago RIT T-4-2009, informar a quién denunciar
 el acoso. También disculpas privadas o públicas graduadas, capacitaciones y reformas del reglamento.
 
-**Inhabilidad para contratar con el Estado.** La condena por infracción a derechos fundamentales o
-por prácticas antisindicales genera la inhabilidad de los arts. 4 y 35 septies de la Ley 19.886
-(reformada por la Ley 21.634): el tribunal pondera su duración y puede moderarla, y los dos años se
-cuentan desde la sentencia firme (DT Ord. 387 de 2026). Pídela o pide su moderación según a quién se
-represente.
+**Inhabilidad para contratar con el Estado (Ley 19.886, arts. 4 y 35 septies c), reformada por la
+Ley 21.634).** La condena por infracción a derechos fundamentales del trabajador o por prácticas
+antisindicales permite inhabilitar al empleador en el Registro de Proveedores.
+
+- **Duración.** Hasta **dos años** desde que la sentencia queda firme (DT Ord. 387 de 2026 en el
+  mismo sentido).
+- **Fundamentación.** El juez debe fundar la duración en el bien jurídico vulnerado, la magnitud de
+  la infracción y los terceros afectados, la reiteración, el interés público y la proporcionalidad
+  del efecto económico.
+- **Exclusión.** **No la aplica** si causaría graves consecuencias sociales y económicas o daños
+  serios a la comunidad, o si es perjudicial para el Estado. Para evaluarlo debe pedir opinión
+  fundada a la Dirección de Compras y Contratación Pública.
+- **Extensión al grupo.** En la **demanda** puede pedirse que se extienda a las personas jurídicas
+  declaradas un solo empleador con la condenada (art. 3 inc. 4) por sentencia firme.
+- **Registros alcanzados.** Rige también para los registros del MOP, del MINVU y demás registros del
+  Estado (art. 35 octies).
+- **Cómo usarla.** Representando al trabajador, pídela expresamente en la demanda, con su extensión
+  si hay grupo de empresas. Representando al empleador, pide que se excluya o se reduzca, y aporta
+  antecedentes sobre empleo, contratos públicos vigentes y efectos en la comunidad.
 
 ## Despido lesivo (art. 489)
 
@@ -148,18 +193,26 @@ derechos fundamentales, sea por su motivo real (abierto o encubierto, por ejempl
 por su forma (maltrato al despedir, uso de prueba ilícita). Todo despido lesivo es injustificado,
 pero un despido injustificado no es por sí lesivo.
 
-**Indemnizaciones.** Sustitutiva del aviso previo, años de servicio con el recargo del art. 168
-según la causal, y una **adicional de 6 a 11 remuneraciones mensuales**, de naturaleza sancionatoria,
-compatible con el daño moral (CS unificación Rol 23.096-2019, 19-08-2020, Celedón Bravo con Servicio
-de Salud Arauco; Rol 119.688-2020, 24-01-2022, Abello Astete con Patagonia College, cons. 9 y 10). La
-**Corte de Valparaíso** (Rol 331-2017) ya había calificado la adicional como sancionatoria. Según MD4,
-la adicional no queda sujeta al tope de 90 UF del art. 172.
+**Plazo y acumulación.** 60 días desde la separación, suspendible como en el art. 168 (art. 489
+inc. 2). Deben deducirse conjuntamente todas las acciones que nacen de los mismos hechos, con el
+despido injustificado en subsidio; si no se hace, se entienden renunciadas. Al acumularse, la causa
+pierde la preferencia del art. 488.
 
-**Despido discriminatorio grave.** Si el despido es discriminatorio y el juez lo califica de grave
-mediante resolución fundada, el trabajador puede optar entre la reincorporación y las
-indemnizaciones (más la adicional). El despido discriminatorio por cáncer siempre es grave (art. 489
-bis, Ley 21.258). El despido antisindical se rige por el art. 294 (reincorporación; ver
-`derecho-colectivo.md`).
+**Indemnizaciones.** Sustitutiva del aviso previo, años de servicio con el recargo del art. 168
+según la causal, y una **adicional de 6 a 11 veces la última remuneración mensual** (fijada
+incidentalmente por el juez), de naturaleza sancionatoria, compatible con el daño moral (CS
+unificación Rol 23.096-2019, 19-08-2020, Celedón Bravo con Servicio de Salud Arauco; Rol
+119.688-2020, 24-01-2022, Abello Astete con Patagonia College, cons. 9 y 10). La **Corte de
+Valparaíso** (Rol 331-2017) ya había calificado la adicional como sancionatoria. Según MD4, la
+adicional no queda sujeta al tope de 90 UF del art. 172. El texto apoya esa tesis: ese tope rige
+"para los efectos de las indemnizaciones establecidas en este título" (Título V del Libro I), y el
+art. 489 está en el Libro V.
+
+**Despido discriminatorio grave.** Si el despido se declara discriminatorio por los motivos del art.
+2 inc. 4 y el juez lo califica de grave mediante resolución fundada, el trabajador puede optar entre
+la reincorporación y las indemnizaciones (más la adicional). El despido discriminatorio por cáncer
+siempre es grave (art. 489 bis, Ley 21.258). El despido antisindical se rige por el art. 294
+(reincorporación; ver `derecho-colectivo.md`).
 
 ## Garantía de indemnidad
 
